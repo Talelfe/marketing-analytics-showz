@@ -42,7 +42,7 @@ Los hallazgos de este análisis permitirán a los expertos en marketing de Showz
 ¿Cuántas personas lo usan y cuántas sesiones hay?
 ¿Cuál es la duración de cada sesión?
 ¿Con qué frecuencia los usuarios regresan?
-¿Qué porcentaje de los usuarios visitan la página desde un dispositivo móvil?**
+¿Qué porcentaje de los usuarios visitan la página desde un dispositivo móvil?
 
 🛒 **Ventas**
 
