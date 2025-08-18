@@ -1,7 +1,9 @@
 # marketing-analytics-showz
 📈 Este proyecto analiza métricas clave de negocio para Showz, una empresa de venta de entradas de eventos. 
+Un **Proyecto de Estudio de Caso Analítico**, con el Objetivo de ayudar al departamento de marketing de Showz a optimizar su inversión. Para ello, analizaremos el comportamiento de los clientes y la rentabilidad de las campañas de marketing.
 
-📈 Showz Business Metrics Analysis
+📈 **Showz Business Metrics Analysis**
+
 `Marketing Analytics` `Customer Behavior` `ROI` `Data Analysis` `Python` 
 
 💡 **Descripción del Proyecto**
@@ -32,3 +34,25 @@ Este proyecto se centra en el análisis de métricas de negocio para Showz, una 
 🚀 **Impacto del Proyecto**
 
 Los hallazgos de este análisis permitirán a los expertos en marketing de Showz tomar decisiones más inteligentes y estratégicas, asegurando que cada inversión en marketing genere el máximo valor para la empresa.
+
+💭 **¿Qué podras descubrir?**
+
+📊 **Visitas**
+
+¿Cuántas personas lo usan y cuántas sesiones hay?
+¿Cuál es la duración de cada sesión?
+¿Con qué frecuencia los usuarios regresan?
+¿Qué porcentaje de los usuarios visitan la página desde un dispositivo móvil?**
+
+🛒 **Ventas**
+
+¿Cuándo empieza la gente a comprar?
+¿Cuántos pedidos hacen y cuál es el tamaño promedio de compra?
+¿Cuánto dinero traen? (LTV)
+
+📈 **Marketing**
+
+¿Cuánto dinero se gastó?
+¿Cuál fue el costo de adquisición de clientes (CAC) de cada una de las fuentes?
+¿Cuán rentables eran las inversiones? (ROMI)
+
