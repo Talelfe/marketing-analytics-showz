@@ -21,13 +21,13 @@ Este proyecto se centra en el análisis de métricas de negocio para Showz, una 
 
 🔎 **Lo que se Investigó**
 
-**Comportamiento del Cliente:** ¿Cómo y cuándo utilizan los clientes el servicio?
+* **Comportamiento del Cliente:** ¿Cómo y cuándo utilizan los clientes el servicio?
 
-**Hábitos de Compra:** ¿Cuándo empiezan a comprar y con qué frecuencia?
+* **Hábitos de Compra:** ¿Cuándo empiezan a comprar y con qué frecuencia?
 
-**Métricas de Ingresos:** ¿Cuánto dinero aporta cada cliente a lo largo de su vida (LTV)?
+* **Métricas de Ingresos:** ¿Cuánto dinero aporta cada cliente a lo largo de su vida (LTV)?
 
-**Análisis del ROI:** ¿Cuándo se recuperan los costos de adquisición de clientes?
+* **Análisis del ROI:** ¿Cuándo se recuperan los costos de adquisición de clientes?
 
 🚀 **Impacto del Proyecto**
 
